@@ -6,7 +6,11 @@ using std::endl;
 
 int main()
 {
+<<<<<<< HEAD
+    cout << My Friends:\n\n";
+=======
     cout << Your Friends:\n\n";
+>>>>>>> master
 
     Person p1("Joe", "Bloggs");
     cout << "\t" << p1.ToString() << endl;
