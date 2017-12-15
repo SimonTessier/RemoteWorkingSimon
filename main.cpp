@@ -13,7 +13,10 @@ int main()
     
     Person p2("Peter", "McLaughlin");
     cout << "\t" << p2.ToString() << endl;
-
+    
+    Person p3("Simon", "Tessier");
+    cout << "\t" << p3.ToString() << endl;
+	
     cout << endl;
 
     return 0;
